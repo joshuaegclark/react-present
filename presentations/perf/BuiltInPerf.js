@@ -1,0 +1,5 @@
+/*
+window.performance.mark
+window.performance.measure
+Done automagically by ClientMetrics.startSpan
+*/
